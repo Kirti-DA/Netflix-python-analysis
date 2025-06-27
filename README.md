@@ -1,33 +1,49 @@
 # Netflix Viewing Trends Analysis (Python)
 
+## 📚 Table of Contents
+- [Objective](#-objective)
+- [Project Structure](#-project-structure)
+- [Tools & Libraries Used](#-tools--libraries-used)
+- [Key Insights](#-key-insights)
+- [What I Learned](#-what-i-learned)
+- [Screenshots](#-screenshots)
+- [Conclusion](#-conclusion)
+- [Source](#-source)
+- [Author](#-author)
+
 ## 🎯 Objective
-The goal of this project was to analyze Netflix content data and uncover insights about the most popular genres, filming trends over the years, and which titles dominated viewership.
+Analyze Netflix content data to uncover trends in content types, popular genres, top-producing countries, and most popular titles using Python.
 
 ## 📁 Project Structure
-- notebook/ – Contains the Jupyter Notebook for analysis and visualizations
-- data/ – Contains the dataset (netflix_titles.csv)
-- screenshots/ – (Optional) Visuals/graphs from the project
+- [notebook/netflix_analysis.ipynb](notebook/netflix_analysis.ipynb) – Jupyter notebook with data cleaning, EDA, and visualizations
+- [data/netflix_titles.csv](data/netflix_titles.csv) – Dataset used in the project
+- [screenshots/](screenshots/) – Folder containing visual summary screenshot
 
 ## 🛠 Tools & Libraries Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook / Anaconda
-- Dataset Source: YouTube project (based on Netflix data)
+- Dataset Source: YouTube tutorial (based on Netflix dataset)
 
 ## 📊 Key Insights
-- 🎭 *Drama* is the most frequent genre, appearing in *over 14%* of the content.
-- 🎬 It is also the *most popular genre, contributing to **18.5%* of total popularity across movies.
-- 🕷 *Spider-Man: No Way Home* was the *most popular movie*, tagged under Action, Adventure, and Sci-Fi.
-- 📅 *Year 2020* saw the *highest number of films released* on Netflix.
-- Visualizations helped clearly depict genre distribution, popularity trends, and yearly growth.
+- 🎭 *Drama* is the most frequent and popular genre, appearing in over *14%* of titles and generating *18.5%* of popularity.
+- 🕷 *Spider-Man: No Way Home* is the most popular movie in the dataset (genre: Action, Adventure, Sci-Fi).
+- 📅 *2020* had the highest number of films released.
 
 ## 💡 What I Learned
-- How to clean and manipulate real-world data using pandas
-- Creating insightful visualizations using matplotlib and seaborn
-- Drawing conclusions from exploratory data analysis (EDA)
-- Structuring data projects in a portfolio-friendly format
-  
+- Cleaned and analyzed real-world data using pandas
+- Built meaningful charts with matplotlib and seaborn
+- Structured an analysis for presentation in a professional GitHub format
+
 ## 📸 Screenshots
+
 ![Netflix Summary Chart](screenshots/netflix_summary_chart.png)
 
 ## ✅ Conclusion
-This project helped me develop a deeper understanding of Netflix’s content trends and improved my skills in data cleaning, visualization, and storytelling using Python.
+This project helped me apply core data analysis skills to entertainment data and present insights visually. It enhanced my storytelling ability using Python and built confidence in working with real datasets.
+
+## 📺 Source
+Project inspired by [this YouTube tutorial](https://youtu.be/tjIWRqqMDaw?si=R4JPE256HrCnFocV)
+
+## 👩‍💻 Author
+*Kirti* – Aspiring Data Analyst  
+[GitHub Profile](https://github.com/Kirti-DA)
