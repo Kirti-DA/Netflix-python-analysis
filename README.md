@@ -14,12 +14,6 @@
 ## 🎯 Objective
 Analyze Netflix content data to uncover trends in content types, popular genres, top-producing countries, and most popular titles using Python.
 
-## 📁 Project Structure
-- notebook/ – Contains the Jupyter Notebook for analysis and visualizations
-- data/ – Contains the dataset (netflix_titles.csv)
-- screenshots/ – (Optional) Visuals/graphs from the project
-
-
 ## 🛠 Tools & Libraries Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook / Anaconda
