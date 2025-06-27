@@ -16,7 +16,7 @@ Analyze Netflix content data to uncover trends in content types, popular genres,
 
 ## 📁 Project Structure
 - [notebook/netflix_analysis.ipynb](notebook/netflix_project.ipynb) – Jupyter notebook with data cleaning, EDA, and visualizations
-- [data/netflix_titles.csv](data/.csv) – Dataset used in the project
+- [data/netflix_titles.csv](data/mymoviedb.csv) – Dataset used in the project
 - [screenshots/](screenshots/) – Folder containing visual summary screenshot
 
 ## 🛠 Tools & Libraries Used
