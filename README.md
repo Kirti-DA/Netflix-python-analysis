@@ -27,7 +27,6 @@ The goal of this project was to analyze Netflix content data and uncover insight
 - Structuring data projects in a portfolio-friendly format
 
 ## 📸 Screenshots
-
 ![Netflix Summary Chart](screenshots/netflix_summary_chart.png)
 
 ## ✅ Conclusion
